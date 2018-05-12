@@ -35,7 +35,7 @@
 
     <cryptfiles>
         <include>
-            <file regex="\.(htm|html|js|css|dxview|map)$" />
+            <file regex="\.(htm|html|js|css|dxview|map|smali|java)$" />
         </include>
         <exclude>
         </exclude>
